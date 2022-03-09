@@ -1,4 +1,4 @@
-// Authors: Jeffrey Jordan & Josh Freeman
+// Authors: Jeffrey Jordan
 // Date: 2/12/20
 // File: sudoku.c
 
